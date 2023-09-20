@@ -1,0 +1,14 @@
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.AssemblyReference.cache
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+C:\Users\Luisg\source\repos\Learning\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\Luisg\source\repos\Learning\Learning\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache
