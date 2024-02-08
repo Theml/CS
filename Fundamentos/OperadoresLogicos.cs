@@ -8,13 +8,19 @@ namespace Learning.Fundamentos
     {
         public static void Executar()
         {
-            double nota = 6.0;
-            double notaDeCorte = 7.0;
+            var executouTrabalho1 = true;
+            var executouTrabalho2 = false;
 
-            Console.WriteLine("Nota inválida");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            bool comprouTv50 =  executouTrabalho1 && executouTrabalho2;
+            Console.WriteLine("Comprou a Tv de 50? {0} ", comprouTv50);
+
+            var comprouSorvete = executouTrabalho1 || executouTrabalho2;
+            Console.WriteLine("Comprou Sorvete? {0} ", comprouSorvete);
+
+            var comprouTv32 = executouTrabalho1 ^ executouTrabalho2;
+            Console.WriteLine("Comprou a Tv de 32? {0} ", comprouTv32);
+
+           Console.WriteLine("Mais saudável? {0} ", !comprouSorvete);
         }
     }
 }

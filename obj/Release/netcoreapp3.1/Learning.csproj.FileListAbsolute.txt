@@ -1,0 +1,13 @@
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.exe
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.deps.json
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.runtimeconfig.json
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.runtimeconfig.dev.json
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.dll
+C:\Users\Luisg\Documents\GitHub\CS\bin\Release\netcoreapp3.1\Learning.pdb
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.AssemblyInfo.cs
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.dll
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.pdb
+C:\Users\Luisg\Documents\GitHub\CS\obj\Release\netcoreapp3.1\Learning.genruntimeconfig.cache

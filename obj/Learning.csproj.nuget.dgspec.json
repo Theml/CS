@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luisg\\source\\repos\\Learning\\Learning\\Learning.csproj": {}
+    "C:\\Users\\Luisg\\Documents\\GitHub\\CS\\Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luisg\\source\\repos\\Learning\\Learning\\Learning.csproj": {
+    "C:\\Users\\Luisg\\Documents\\GitHub\\CS\\Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luisg\\source\\repos\\Learning\\Learning\\Learning.csproj",
+        "projectUniqueName": "C:\\Users\\Luisg\\Documents\\GitHub\\CS\\Learning.csproj",
         "projectName": "Learning",
-        "projectPath": "C:\\Users\\Luisg\\source\\repos\\Learning\\Learning\\Learning.csproj",
+        "projectPath": "C:\\Users\\Luisg\\Documents\\GitHub\\CS\\Learning.csproj",
         "packagesPath": "C:\\Users\\Luisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luisg\\source\\repos\\Learning\\Learning\\obj\\",
+        "outputPath": "C:\\Users\\Luisg\\Documents\\GitHub\\CS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
