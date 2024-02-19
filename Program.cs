@@ -60,15 +60,21 @@ namespace Learning
                 {"Propriedades - Classes e Metodos", Props.Executar },
                 {"Readonly - Classes e Metodos", Readonly.Executar },
                 {"Enums - Classes e Metodos", ExemploEnum.Executar },
+                {"Struct - Classes e Metodos", ExemploStruct.Executar },
+                {"Struct Vs Classe - Classes e Metodos", StructVsClasse.Executar },
+                {"Valor Vs Referencia - Classes e Metodos", ValorVsReferencia.Executar },
+                {"Parametros por Referencia - Classes e Metodos", ParametrosPorReferencia.Executar },
+                {"Out - Classes e Metodos", ExemOut.Executar },
+                {"Parametro Com Valor Padrão - Classes e Metodos", ParametroPadrao.Executar },
 
                 // Coleções
-                {"Array - Coleções", ArrayE.Executar},
-                {"List - Coleções", ColecoesList.Executar},
-                {"Array List - Coleções", ColecoesArrayList.Executar},
-                {"Set - Coleções", ColecoesSet.Executar},
-                {"Queue - Coleções", ColecoesQueue.Executar},
-                {"Igualdade - Coleções", Igualdade.Executar},
-                {"Stack - Coleções", Stack.Executar}
+                //{"Array - Coleções", ArrayE.Executar},
+                //{"List - Coleções", ColecoesList.Executar},
+                //{"Array List - Coleções", ColecoesArrayList.Executar},
+                //{"Set - Coleções", ColecoesSet.Executar},
+                //{"Queue - Coleções", ColecoesQueue.Executar},
+                //{"Igualdade - Coleções", Igualdade.Executar},
+                //{"Stack - Coleções", Stack.Executar}
 
 
             });
