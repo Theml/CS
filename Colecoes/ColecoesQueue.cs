@@ -16,6 +16,7 @@ namespace Learning.Colecoes
             fila.Enqueue("Fulano");
             fila.Enqueue("Sicrano");
             fila.Enqueue("Beltrano");
+            fila.Enqueue("Beltrano");
 
             Console.WriteLine(fila.Peek());
             Console.WriteLine(fila.Count);

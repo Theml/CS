@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Learning.Colecoes
+namespace Learning.OO
 {
-    class Stack
+    class C
     {
         public static void Executar()
         {

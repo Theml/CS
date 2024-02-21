@@ -21,7 +21,7 @@ namespace Learning.Colecoes
             }
 
             double somatorio = 0;
-            double[] notas = { 9.7,4.8,4.2,8.2,6.7 };
+            double[] notas = { 9.7,4.8,8.4,8.2,6.8 };
 
             foreach(var nota in notas)
             {

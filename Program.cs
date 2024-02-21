@@ -68,13 +68,17 @@ namespace Learning
                 {"Parametro Com Valor Padrão - Classes e Metodos", ParametroPadrao.Executar },
 
                 // Coleções
-                //{"Array - Coleções", ArrayE.Executar},
-                //{"List - Coleções", ColecoesList.Executar},
-                //{"Array List - Coleções", ColecoesArrayList.Executar},
-                //{"Set - Coleções", ColecoesSet.Executar},
-                //{"Queue - Coleções", ColecoesQueue.Executar},
-                //{"Igualdade - Coleções", Igualdade.Executar},
-                //{"Stack - Coleções", Stack.Executar}
+                {"Array - Coleções", ArrayE.Executar},
+                {"List - Coleções", ColecoesList.Executar},
+                {"Array List - Coleções", ColecoesArrayList.Executar},
+                {"Set - Coleções", ColecoesSet.Executar},
+                {"Queue - Coleções", ColecoesQueue.Executar},
+                {"Igualdade - Coleções", Igualdade.Executar},
+                {"Stack - Coleções", ColecoesStack.Executar},
+                {"Dictionary - Coleções", ColecoesDictionary.Executar},
+
+                //Orientação a Objeto(OO)
+                //{"", C.Executar},
 
 
             });

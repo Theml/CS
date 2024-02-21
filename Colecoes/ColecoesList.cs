@@ -4,7 +4,6 @@ using System.Text;
 
 namespace Learning.Colecoes
 {
-
     public class Produto
     {
         public string Nome;
@@ -36,6 +35,8 @@ namespace Learning.Colecoes
         //{
         //    return Nome.Length;
         //}
+
+        // Alteração que afeta o Set 
         public override int GetHashCode()
         {
             var hashCode = -347481536;
@@ -62,18 +63,18 @@ namespace Learning.Colecoes
             };
 
             carrinho.AddRange(combo);
-            Console.WriteLine(carrinho.Count);
+            Console.WriteLine("Itens no carrinho: {0} ", carrinho.Count);
             carrinho.RemoveAt(3);
 
             foreach (var item in carrinho)
             {
-                Console.WriteLine(carrinho.IndexOf(item));
-                Console.WriteLine($"{item.Nome} {item.Preco}");
+                Console.WriteLine("Numeração do item no carrinho: {0}", carrinho.IndexOf(item));
+                Console.WriteLine($"Item: {item.Nome}, Preço: {item.Preco}");
             }
 
-            Console.WriteLine(carrinho.Count);
+            Console.WriteLine("Itens no carrinho: {0} ", carrinho.Count);
             carrinho.Add(livro);
-            Console.WriteLine(carrinho.LastIndexOf(livro));
+            Console.WriteLine("Numeração ultimo item do carrinho: {0}", carrinho.LastIndexOf(livro));
         }
     }
 }

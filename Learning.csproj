@@ -10,7 +10,6 @@
     <Folder Include="Excecoes\" />
     <Folder Include="MetodosEFuncoes\" />
     <Folder Include="Api\" />
-    <Folder Include="OO\" />
     <Folder Include="TopicosAvancados\" />
   </ItemGroup>
 
