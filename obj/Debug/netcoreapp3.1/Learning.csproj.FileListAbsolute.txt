@@ -26,3 +26,6 @@ C:\Users\Luisg\Documents\GitHub\CS\obj\Debug\netcoreapp3.1\Learning.csproj.CoreC
 C:\Users\Luisg\Documents\GitHub\CS\obj\Debug\netcoreapp3.1\Learning.dll
 C:\Users\Luisg\Documents\GitHub\CS\obj\Debug\netcoreapp3.1\Learning.pdb
 C:\Users\Luisg\Documents\GitHub\CS\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache
+C:\Users\Luisg\Documents\GitHub\CS\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Luisg\Documents\GitHub\CS\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Luisg\Documents\GitHub\CS\obj\Debug\netcoreapp3.1\Learning.csproj.CopyComplete

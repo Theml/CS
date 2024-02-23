@@ -13,4 +13,8 @@
     <Folder Include="TopicosAvancados\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
+  </ItemGroup>
+
 </Project>

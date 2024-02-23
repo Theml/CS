@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-//using Learning.OO;
+using Learning.OO;
 //using Learning.Api;
 //using Learning.Excecoes;
 using Learning.Colecoes;
@@ -78,7 +78,13 @@ namespace Learning
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
 
                 //Orientação a Objeto(OO)
-                //{"", C.Executar},
+                {"Herança - Orientação a Objeto", Heranca.Executar},
+                {"Construtor - Orientação a Objeto", ConstrutorThis.Executar},
+                {"Encapsulamento - Orientação a Objeto", OO.Encapsulamento.Executar},
+                {"Polimorfismo - Orientação a Objeto", Polimorfismo.Executar},
+                {"Classe Abstrata - Orientação a Objeto", ClasseAbstrata.Executar},
+                {"Interface - Orientação a Objeto", Interface.Executar},
+                {"Classe e Metodo Sealed - Orientação a Objeto", Sealed.Executar},
 
 
             });
