@@ -7,7 +7,7 @@ using Learning.OO;
 using Learning.Colecoes;
 using Learning.Fundamentos;
 using Learning.ClasseEMetodo;
-//using Learning.MetodosEFuncoes;
+using Learning.MetodosEFuncoes;
 //using Learning.TopicosAvancados;
 using Learning.EstruturaDeControle;
 
@@ -85,6 +85,14 @@ namespace Learning
                 {"Classe Abstrata - Orientação a Objeto", ClasseAbstrata.Executar},
                 {"Interface - Orientação a Objeto", Interface.Executar},
                 {"Classe e Metodo Sealed - Orientação a Objeto", Sealed.Executar},
+
+                //Metodos e Funções
+                {"Exemplo Lampda - Metodos e Funções", ExemploLampda.Executar },
+                {"Delegate com Lampda - Metodos e Funções", DelegateLampda.Executar },
+                {"Usando Delegate - Metodos e Funções", UsandoDelegate.Executar },
+                {"Delegate com Funções Anonimas - Metodos e Funções", DelegateFuncAnonimas.Executar },
+                {"Delegate como Parametros - Metodos e Funções", DelegateComoParametros.Executar },
+                {"Metodos de Extensão - Metodos e Funções", MetodosDeExtensao.Executar },
 
 
             });
