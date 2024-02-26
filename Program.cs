@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using Learning.OO;
 //using Learning.Api;
-//using Learning.Excecoes;
+using Learning.Excecoes;
 using Learning.Colecoes;
 using Learning.Fundamentos;
 using Learning.ClasseEMetodo;
@@ -94,7 +94,9 @@ namespace Learning
                 {"Delegate como Parametros - Metodos e Funções", DelegateComoParametros.Executar },
                 {"Metodos de Extensão - Metodos e Funções", MetodosDeExtensao.Executar },
 
-
+                //Exceções 
+                {"Exceções e Tratamento de Erro - Exceções", ExcecaoETratamento.Executar },
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar },
             });
 
             central.SelecionarEExecutar();
