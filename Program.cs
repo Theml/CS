@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 
 using Learning.OO;
-//using Learning.Api;
+using Learning.Api;
 using Learning.Excecoes;
 using Learning.Colecoes;
 using Learning.Fundamentos;
 using Learning.ClasseEMetodo;
 using Learning.MetodosEFuncoes;
-//using Learning.TopicosAvancados;
+using Learning.TopicosAvancados;
 using Learning.EstruturaDeControle;
 
 namespace Learning
@@ -97,6 +97,23 @@ namespace Learning
                 //Exceções 
                 {"Exceções e Tratamento de Erro - Exceções", ExcecaoETratamento.Executar },
                 {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar },
+
+                //Api
+                {"Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar },
+                {"Lendo Arquivo - Usando API", LendoArquivo.Executar },
+                {"Exemplo FileInfo - Usando API", ExemploFileInfo.Executar },
+                {"Diretorios - Usando API", Diretorios.Executar },
+                {"Diretory Info - Usando API", ExemploDirectoryInfo.Executar },
+                {"Usando Path - Usando API", UsandoPath.Executar },
+                {"Exemplo DateTime - Usando API", ExemploDateTime.Executar },
+                {"Exemplo TimeSpan - Usando API", ExemploTimeSpan.Executar },
+
+                //Topicos Avançados
+                {"LINQ #01 - Topicos Avançados", LINQ1.Executar },
+                {"LINQ #02 - Topicos Avançados", LINQ2.Executar },
+                {"Nullables - Topicos Avançados", Nullables.Executar },
+                {"Dynamics - Topicos Avançados", Dynamics.Executar },
+                {"Generics - Topicos Avançados", Genericos.Executar },
             });
 
             central.SelecionarEExecutar();
